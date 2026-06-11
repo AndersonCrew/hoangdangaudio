@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580003086936",
+    "project_id": "hoangdangaudio-c3423",
+    "storage_bucket": "hoangdangaudio-c3423.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580003086936:android:ccd4394d541e17533f402d",
+        "android_client_info": {
+          "package_name": "com.example.hoang_dang_audio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9nxqQ7ajZYPOCLMpI_K1nITHNum14TXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
